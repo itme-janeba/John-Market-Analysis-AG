@@ -5,5 +5,36 @@
     "created": "2026-08-18T11:48:28.754949",
     "tool_version": "7.0"
   },
-  "bg_folder_id": "1HuquRuAS3J1D6CvAacw0EYorraa6UoXe"
+  "bg_folder_id": "1HuquRuAS3J1D6CvAacw0EYorraa6UoXe",
+  "show_cache": {
+    "type": "split",
+    "parts": [
+      {
+        "part": 1,
+        "total": 3,
+        "name": "cache_show_20260818_122536_part01-of-03.mp4",
+        "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1Ez0DQjW6OSXjIB3p3TZ-01f261/cache_show_20260818_122536_part01-of-03.mp4",
+        "size_mb": 1900.0
+      },
+      {
+        "part": 2,
+        "total": 3,
+        "name": "cache_show_20260818_122536_part02-of-03.mp4",
+        "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1Ez0DQjW6OSXjIB3p3TZ-01f261/cache_show_20260818_122536_part02-of-03.mp4",
+        "size_mb": 1900.0
+      },
+      {
+        "part": 3,
+        "total": 3,
+        "name": "cache_show_20260818_122536_part03-of-03.mp4",
+        "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1Ez0DQjW6OSXjIB3p3TZ-01f261/cache_show_20260818_122536_part03-of-03.mp4",
+        "size_mb": 672.5
+      }
+    ],
+    "total_parts": 3,
+    "name": "cache_show_20260818_122536.mp4",
+    "size_mb": 4472.5,
+    "original_name": "show.webm",
+    "uploaded_at": "2026-08-18T12:29:33.593301"
+  }
 }
