@@ -157,6 +157,12 @@
         "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1OG6xX9s4nqwcYw72F7n-e46928/chunk_rgb_0020_20260818_142652.mp4",
         "name": "chunk_rgb_0020_20260818_142652.mp4",
         "size_mb": 5.4
+      },
+      "21": {
+        "type": "single",
+        "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1OG6xX9s4nqwcYw72F7n-e46928/chunk_rgb_0021_20260818_142955.mp4",
+        "name": "chunk_rgb_0021_20260818_142955.mp4",
+        "size_mb": 6.0
       }
     },
     "mask_chunks": {
@@ -285,6 +291,12 @@
         "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1OG6xX9s4nqwcYw72F7n-e46928/chunk_mask_0020_20260818_142652.mp4",
         "name": "chunk_mask_0020_20260818_142652.mp4",
         "size_mb": 1.4
+      },
+      "21": {
+        "type": "single",
+        "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1OG6xX9s4nqwcYw72F7n-e46928/chunk_mask_0021_20260818_142955.mp4",
+        "name": "chunk_mask_0021_20260818_142955.mp4",
+        "size_mb": 1.5
       }
     },
     "fps": 25.0,
