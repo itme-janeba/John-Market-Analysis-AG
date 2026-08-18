@@ -30,5 +30,14 @@
     "rgb_chunks": {},
     "mask_chunks": {}
   },
-  "bg_folder_id": "1RcefTBv5Kfd7LNbkHp_xMOiNkiwly188"
+  "bg_folder_id": "1RcefTBv5Kfd7LNbkHp_xMOiNkiwly188",
+  "option6": {},
+  "bg_cache_1_ThrYAkrv3y6nFnc211PRjd9wJldvHFz": {
+    "type": "single",
+    "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1Qgl4uOMB8Q3HpIAityc-7d6e66/cache_bg_1_ThrYAkrv3y6nFnc211PRjd9wJldvHFz_20260818_135823.mp4",
+    "name": "cache_bg_1_ThrYAkrv3y6nFnc211PRjd9wJldvHFz_20260818_135823.mp4",
+    "size_mb": 92.5,
+    "original_name": "output_020.mp4",
+    "uploaded_at": "2026-08-18T13:58:29.016389"
+  }
 }
