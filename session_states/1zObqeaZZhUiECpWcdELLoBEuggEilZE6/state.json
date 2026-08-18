@@ -104,16 +104,16 @@
     },
     "1_1M09dBi8lZ0nCL73QkE5Tc5Zl0Uq7v0": {
       "uploaded": true,
-      "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_080518_xx_1m39s_720p.mp4",
-      "name": "xx",
-      "output": "COMPOSITE6_20260818_080518_xx_1m39s_720p.mp4",
+      "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_081208_dfs4g_1m39s_720p.mp4",
+      "name": "dfs4g",
+      "output": "COMPOSITE6_20260818_081208_dfs4g_1m39s_720p.mp4",
       "upload_info": {
         "type": "single",
-        "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_080518_xx_1m39s_720p.mp4",
-        "name": "COMPOSITE6_20260818_080518_xx_1m39s_720p.mp4",
+        "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_081208_dfs4g_1m39s_720p.mp4",
+        "name": "COMPOSITE6_20260818_081208_dfs4g_1m39s_720p.mp4",
         "size_mb": 46.2
       },
-      "uploaded_at": "2026-08-18T08:05:22.459228",
+      "uploaded_at": "2026-08-18T08:12:55.639572",
       "chunks": {
         "0": {
           "type": "single",
@@ -182,6 +182,17 @@
         "size_mb": 49.0
       },
       "label": "Option6-f3"
+    },
+    {
+      "name": "COMPOSITE6_20260818_081208_dfs4g_1m39s_720p.mp4",
+      "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_081208_dfs4g_1m39s_720p.mp4",
+      "upload_info": {
+        "type": "single",
+        "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_081208_dfs4g_1m39s_720p.mp4",
+        "name": "COMPOSITE6_20260818_081208_dfs4g_1m39s_720p.mp4",
+        "size_mb": 46.2
+      },
+      "label": "Option6-dfs4g"
     }
   ],
   "bg_cache_1eGOI5eRWVodoupuutq63bVGSnihQp41G": {
