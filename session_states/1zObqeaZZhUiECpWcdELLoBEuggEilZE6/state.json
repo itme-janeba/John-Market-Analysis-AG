@@ -100,7 +100,15 @@
         "name": "COMPOSITE6_20260818_080334_ead_1m39s_720p.mp4",
         "size_mb": 36.7
       },
-      "uploaded_at": "2026-08-18T08:03:37.919172"
+      "uploaded_at": "2026-08-18T08:03:37.919172",
+      "chunks": {
+        "0": {
+          "type": "single",
+          "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/c6chunk_1eGOI5eRWVodoupuutq63bVGSnihQp41G_0000_20260818_081337.mp4",
+          "name": "c6chunk_1eGOI5eRWVodoupuutq63bVGSnihQp41G_0000_20260818_081337.mp4",
+          "size_mb": 17.1
+        }
+      }
     },
     "1_1M09dBi8lZ0nCL73QkE5Tc5Zl0Uq7v0": {
       "uploaded": true,
