@@ -5,5 +5,29 @@
     "created": "2026-08-18T11:45:25.380941",
     "tool_version": "7.0"
   },
-  "bg_folder_id": "1564MDoOsEWQNcRcWbqaAst33pZM-l_Cn"
+  "bg_folder_id": "1564MDoOsEWQNcRcWbqaAst33pZM-l_Cn",
+  "show_cache": {
+    "type": "split",
+    "parts": [
+      {
+        "part": 1,
+        "total": 2,
+        "name": "cache_show_20260818_122056_part01-of-02.mp4",
+        "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1fS8_i-zxwP8Bs5Z2AaH-98f369/cache_show_20260818_122056_part01-of-02.mp4",
+        "size_mb": 1900.0
+      },
+      {
+        "part": 2,
+        "total": 2,
+        "name": "cache_show_20260818_122056_part02-of-02.mp4",
+        "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1fS8_i-zxwP8Bs5Z2AaH-98f369/cache_show_20260818_122056_part02-of-02.mp4",
+        "size_mb": 1881.5
+      }
+    ],
+    "total_parts": 2,
+    "name": "cache_show_20260818_122056.mp4",
+    "size_mb": 3781.5,
+    "original_name": "show.webm",
+    "uploaded_at": "2026-08-18T12:24:19.921337"
+  }
 }
