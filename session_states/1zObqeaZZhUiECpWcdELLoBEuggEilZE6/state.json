@@ -13,5 +13,13 @@
     "size_mb": 14.4,
     "original_name": "show",
     "uploaded_at": "2026-08-18T07:53:35.395305"
+  },
+  "transparent": {
+    "rgb_chunks": {},
+    "mask_chunks": {},
+    "fps": 29.97002997002997,
+    "out_w": 1280,
+    "out_h": 720,
+    "total_frames": 2990
   }
 }
