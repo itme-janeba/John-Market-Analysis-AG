@@ -63,20 +63,17 @@
   },
   "option6": {
     "1VnS6wfzEdnEGRJxX9uoPdyZhRsUpy6mq": {
-      "chunks": {
-        "0": {
-          "type": "single",
-          "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/c6chunk_1VnS6wfzEdnEGRJxX9uoPdyZhRsUpy6mq_0000_20260818_080102.mp4",
-          "name": "c6chunk_1VnS6wfzEdnEGRJxX9uoPdyZhRsUpy6mq_0000_20260818_080102.mp4",
-          "size_mb": 23.3
-        },
-        "1": {
-          "type": "single",
-          "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/c6chunk_1VnS6wfzEdnEGRJxX9uoPdyZhRsUpy6mq_0001_20260818_080146.mp4",
-          "name": "c6chunk_1VnS6wfzEdnEGRJxX9uoPdyZhRsUpy6mq_0001_20260818_080146.mp4",
-          "size_mb": 23.4
-        }
-      }
+      "uploaded": true,
+      "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_080153_ccs_1m39s_720p.mp4",
+      "name": "ccs",
+      "output": "COMPOSITE6_20260818_080153_ccs_1m39s_720p.mp4",
+      "upload_info": {
+        "type": "single",
+        "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_080153_ccs_1m39s_720p.mp4",
+        "name": "COMPOSITE6_20260818_080153_ccs_1m39s_720p.mp4",
+        "size_mb": 49.0
+      },
+      "uploaded_at": "2026-08-18T08:01:58.135128"
     }
   },
   "bg_cache_1VnS6wfzEdnEGRJxX9uoPdyZhRsUpy6mq": {
@@ -86,5 +83,18 @@
     "size_mb": 5.9,
     "original_name": "ccs",
     "uploaded_at": "2026-08-18T08:00:16.764201"
-  }
+  },
+  "outputs": [
+    {
+      "name": "COMPOSITE6_20260818_080153_ccs_1m39s_720p.mp4",
+      "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_080153_ccs_1m39s_720p.mp4",
+      "upload_info": {
+        "type": "single",
+        "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_080153_ccs_1m39s_720p.mp4",
+        "name": "COMPOSITE6_20260818_080153_ccs_1m39s_720p.mp4",
+        "size_mb": 49.0
+      },
+      "label": "Option6-ccs"
+    }
+  ]
 }
