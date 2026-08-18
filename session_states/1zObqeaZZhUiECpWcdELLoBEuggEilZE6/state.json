@@ -46,6 +46,19 @@
     "fps": 29.97002997002997,
     "out_w": 1280,
     "out_h": 720,
-    "total_frames": 2990
+    "total_frames": 2990,
+    "final_rgb": {
+      "type": "single",
+      "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/transparent_rgb_20260818_075840.mp4",
+      "name": "transparent_rgb_20260818_075840.mp4",
+      "size_mb": 10.4
+    },
+    "final_mask": {
+      "type": "single",
+      "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/transparent_mask_20260818_075840.mp4",
+      "name": "transparent_mask_20260818_075840.mp4",
+      "size_mb": 5.1
+    },
+    "created_at": "2026-08-18T07:58:43.048915"
   }
 }
