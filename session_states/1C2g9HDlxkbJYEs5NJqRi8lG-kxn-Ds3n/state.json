@@ -5,5 +5,13 @@
     "created": "2026-08-18T12:08:28.792413",
     "tool_version": "7.0"
   },
-  "bg_folder_id": "1FOSdVtSfEfIL2fng0pwb8oDWiLoApFGS"
+  "bg_folder_id": "1FOSdVtSfEfIL2fng0pwb8oDWiLoApFGS",
+  "show_cache": {
+    "type": "single",
+    "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1C2g9HDlxkbJYEs5NJqR-65d71c/cache_show_20260818_121146.mp4",
+    "name": "cache_show_20260818_121146.mp4",
+    "size_mb": 651.5,
+    "original_name": "show.webm",
+    "uploaded_at": "2026-08-18T12:12:25.675620"
+  }
 }
