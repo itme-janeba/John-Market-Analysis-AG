@@ -36,5 +36,13 @@
     "size_mb": 4472.5,
     "original_name": "show.webm",
     "uploaded_at": "2026-08-18T12:29:33.593301"
+  },
+  "transparent": {
+    "rgb_chunks": {},
+    "mask_chunks": {},
+    "fps": 60.0,
+    "out_w": 1280,
+    "out_h": 720,
+    "total_frames": 159600
   }
 }
