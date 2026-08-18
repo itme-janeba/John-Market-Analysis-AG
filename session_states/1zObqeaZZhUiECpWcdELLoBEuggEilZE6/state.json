@@ -76,20 +76,17 @@
       "uploaded_at": "2026-08-18T08:01:58.135128"
     },
     "1eGOI5eRWVodoupuutq63bVGSnihQp41G": {
-      "chunks": {
-        "0": {
-          "type": "single",
-          "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/c6chunk_1eGOI5eRWVodoupuutq63bVGSnihQp41G_0000_20260818_080244.mp4",
-          "name": "c6chunk_1eGOI5eRWVodoupuutq63bVGSnihQp41G_0000_20260818_080244.mp4",
-          "size_mb": 17.1
-        },
-        "1": {
-          "type": "single",
-          "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/c6chunk_1eGOI5eRWVodoupuutq63bVGSnihQp41G_0001_20260818_080328.mp4",
-          "name": "c6chunk_1eGOI5eRWVodoupuutq63bVGSnihQp41G_0001_20260818_080328.mp4",
-          "size_mb": 17.2
-        }
-      }
+      "uploaded": true,
+      "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_080334_ead_1m39s_720p.mp4",
+      "name": "ead",
+      "output": "COMPOSITE6_20260818_080334_ead_1m39s_720p.mp4",
+      "upload_info": {
+        "type": "single",
+        "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_080334_ead_1m39s_720p.mp4",
+        "name": "COMPOSITE6_20260818_080334_ead_1m39s_720p.mp4",
+        "size_mb": 36.7
+      },
+      "uploaded_at": "2026-08-18T08:03:37.919172"
     }
   },
   "bg_cache_1VnS6wfzEdnEGRJxX9uoPdyZhRsUpy6mq": {
@@ -111,6 +108,17 @@
         "size_mb": 49.0
       },
       "label": "Option6-ccs"
+    },
+    {
+      "name": "COMPOSITE6_20260818_080334_ead_1m39s_720p.mp4",
+      "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_080334_ead_1m39s_720p.mp4",
+      "upload_info": {
+        "type": "single",
+        "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_080334_ead_1m39s_720p.mp4",
+        "name": "COMPOSITE6_20260818_080334_ead_1m39s_720p.mp4",
+        "size_mb": 36.7
+      },
+      "label": "Option6-ead"
     }
   ],
   "bg_cache_1eGOI5eRWVodoupuutq63bVGSnihQp41G": {
