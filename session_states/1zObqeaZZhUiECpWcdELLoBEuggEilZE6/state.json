@@ -89,20 +89,17 @@
       "uploaded_at": "2026-08-18T08:03:37.919172"
     },
     "1_1M09dBi8lZ0nCL73QkE5Tc5Zl0Uq7v0": {
-      "chunks": {
-        "0": {
-          "type": "single",
-          "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/c6chunk_1_1M09dBi8lZ0nCL73QkE5Tc5Zl0Uq7v0_0000_20260818_080425.mp4",
-          "name": "c6chunk_1_1M09dBi8lZ0nCL73QkE5Tc5Zl0Uq7v0_0000_20260818_080425.mp4",
-          "size_mb": 21.8
-        },
-        "1": {
-          "type": "single",
-          "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/c6chunk_1_1M09dBi8lZ0nCL73QkE5Tc5Zl0Uq7v0_0001_20260818_080510.mp4",
-          "name": "c6chunk_1_1M09dBi8lZ0nCL73QkE5Tc5Zl0Uq7v0_0001_20260818_080510.mp4",
-          "size_mb": 22.0
-        }
-      }
+      "uploaded": true,
+      "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_080518_xx_1m39s_720p.mp4",
+      "name": "xx",
+      "output": "COMPOSITE6_20260818_080518_xx_1m39s_720p.mp4",
+      "upload_info": {
+        "type": "single",
+        "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_080518_xx_1m39s_720p.mp4",
+        "name": "COMPOSITE6_20260818_080518_xx_1m39s_720p.mp4",
+        "size_mb": 46.2
+      },
+      "uploaded_at": "2026-08-18T08:05:22.459228"
     }
   },
   "bg_cache_1VnS6wfzEdnEGRJxX9uoPdyZhRsUpy6mq": {
@@ -135,6 +132,17 @@
         "size_mb": 36.7
       },
       "label": "Option6-ead"
+    },
+    {
+      "name": "COMPOSITE6_20260818_080518_xx_1m39s_720p.mp4",
+      "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_080518_xx_1m39s_720p.mp4",
+      "upload_info": {
+        "type": "single",
+        "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1zObqeaZZhUiECpWcdEL-1fd19b/COMPOSITE6_20260818_080518_xx_1m39s_720p.mp4",
+        "name": "COMPOSITE6_20260818_080518_xx_1m39s_720p.mp4",
+        "size_mb": 46.2
+      },
+      "label": "Option6-xx"
     }
   ],
   "bg_cache_1eGOI5eRWVodoupuutq63bVGSnihQp41G": {
