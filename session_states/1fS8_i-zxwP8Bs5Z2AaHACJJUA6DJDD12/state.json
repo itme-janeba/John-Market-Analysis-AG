@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "session_key": "1fS8_i-zxwP8Bs5Z2AaHACJJUA6DJDD12",
+    "repo": "itme-janeba/John-Market-Analysis-AG",
+    "created": "2026-08-18T09:04:15.320958",
+    "tool_version": "7.0-migrated",
+    "original_drive_name": "1fS8_i-zxwP8Bs5Z2AaHACJJUA6DJDD12"
+  },
+  "transparent": {
+    "final_rgb": {
+      "type": "single",
+      "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1fS8_i-zxwP8Bs5Z2AaH-ff35d3/transparent_rgb_20260818_085556.mp4",
+      "name": "transparent_rgb_20260818_085556.mp4",
+      "size_mb": 497.1
+    },
+    "final_mask": {
+      "type": "single",
+      "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/sess-1fS8_i-zxwP8Bs5Z2AaH-ff35d3/transparent_mask_20260818_085556.mp4",
+      "name": "transparent_mask_20260818_085556.mp4",
+      "size_mb": 130.5
+    },
+    "fps": 25.0,
+    "out_w": 1280,
+    "out_h": 720,
+    "total_frames": 78500,
+    "created_at": "2026-08-18T09:04:15.321002",
+    "migrated_from_drive": true
+  }
+}
