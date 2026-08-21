@@ -15,6 +15,10 @@
       "done": true,
       "size_mb": 584.1594982147217,
       "asset_id": 523377054
+    },
+    "keyed_full": {
+      "done": true,
+      "size_mb": 22214.423132896423
     }
   },
   "chunks": {},
