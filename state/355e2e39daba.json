@@ -1,7 +1,13 @@
 {
   "job_id": "355e2e39daba",
   "created": "2026-08-21T06:59:53.033270+00:00",
-  "steps": {},
+  "steps": {
+    "overlay": {
+      "done": true,
+      "size_mb": 94.64142894744873,
+      "asset_id": 523368063
+    }
+  },
   "chunks": {},
   "status": "in_progress"
 }
