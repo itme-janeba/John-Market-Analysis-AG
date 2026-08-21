@@ -10,6 +10,11 @@
     "bg": {
       "done": true,
       "size_mb": 2966.961453437805
+    },
+    "keyed_clip": {
+      "done": true,
+      "size_mb": 584.1594982147217,
+      "asset_id": 523377054
     }
   },
   "chunks": {},
