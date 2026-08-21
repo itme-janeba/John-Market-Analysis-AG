@@ -47,6 +47,10 @@
     "bg": {
       "done": true,
       "size_mb": 2966.961453437805
+    },
+    "keyed_full": {
+      "done": true,
+      "size_mb": 21928.79665374756
     }
   },
   "chunks": {},
