@@ -10,6 +10,25 @@
         "asset_id": 523326631,
         "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-b87df32919de/download_overlay.mp4"
       }
+    },
+    "download_bg": {
+      "done": true,
+      "size_mb": 2966.961453437805,
+      "ckpt_info": {
+        "single": false,
+        "parts": [
+          {
+            "part": 0,
+            "asset_id": 523327372,
+            "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-b87df32919de/download_bg.mp4.part000"
+          },
+          {
+            "part": 1,
+            "asset_id": 523328770,
+            "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-b87df32919de/download_bg.mp4.part001"
+          }
+        ]
+      }
     }
   },
   "chunks": {},
