@@ -19,26 +19,12 @@
       "asset_id": 523200600,
       "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-1aac1be07a19/chunk_0000.mp4"
     },
-    "2": {
+    "4": {
       "done": true,
-      "start": 615.0954285714286,
+      "start": 1230.190857142857,
       "dur": 307.5477142857143,
-      "asset_id": 523246062,
-      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-1aac1be07a19/chunk_0002.mp4"
-    },
-    "3": {
-      "done": true,
-      "start": 922.6431428571428,
-      "dur": 307.5477142857143,
-      "asset_id": 523246137,
-      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-1aac1be07a19/chunk_0003.mp4"
-    },
-    "6": {
-      "done": true,
-      "start": 1845.2862857142857,
-      "dur": 307.54771428571416,
-      "asset_id": 523279372,
-      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-1aac1be07a19/chunk_0006.mp4"
+      "asset_id": 523276327,
+      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-1aac1be07a19/chunk_0004.mp4"
     }
   },
   "status": "in_progress"
