@@ -17,6 +17,10 @@
       "size_mb": 604.2994174957275,
       "asset_id": 525293400,
       "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-ee8e1583115b/keyed_clip.mkv"
+    },
+    "keyed_full": {
+      "done": true,
+      "size_mb": 19876.342599868774
     }
   },
   "chunks": {},
