@@ -11,6 +11,12 @@
     "bg": {
       "done": true,
       "size_mb": 2675.0690021514893
+    },
+    "keyed_clip": {
+      "done": true,
+      "size_mb": 543.4671754837036,
+      "asset_id": 526346242,
+      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-5010935b162f/keyed_clip.mkv"
     }
   },
   "chunks": {},
