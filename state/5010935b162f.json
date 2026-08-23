@@ -7,6 +7,10 @@
       "size_mb": 94.13818454742432,
       "asset_id": 526338064,
       "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-5010935b162f/overlay.mp4"
+    },
+    "bg": {
+      "done": true,
+      "size_mb": 2675.0690021514893
     }
   },
   "chunks": {},
