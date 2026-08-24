@@ -44,6 +44,13 @@
       "dur": 294.91818181818184,
       "asset_id": 527442999,
       "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-f157e4cb93f0/chunk_0002.mp4"
+    },
+    "3": {
+      "done": true,
+      "start": 884.7545454545455,
+      "dur": 294.91818181818184,
+      "asset_id": 527443051,
+      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-f157e4cb93f0/chunk_0003.mp4"
     }
   },
   "status": "in_progress",
