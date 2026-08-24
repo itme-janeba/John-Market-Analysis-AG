@@ -10,7 +10,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1-dlWBH4/video_1-dlWBH4.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_001_11m23s_part01of01.mp4",
@@ -19,7 +19,9 @@
           "duration_sec": 683.134
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_001_11m23s_part01of01.mp4"
+      ]
     }
   }
 }
