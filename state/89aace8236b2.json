@@ -138,7 +138,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1MjNfgRl/video_1MjNfgRl.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_008_2m31s_part01of01.mp4",
@@ -147,7 +147,9 @@
           "duration_sec": 151.84
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_008_2m31s_part01of01.mp4"
+      ]
     }
   }
 }
