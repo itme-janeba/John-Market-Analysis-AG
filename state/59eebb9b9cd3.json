@@ -122,7 +122,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1TmUVxtT/video_1TmUVxtT.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_007_2m14s_part01of01.mp4",
@@ -131,7 +131,9 @@
           "duration_sec": 134.0
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_007_2m14s_part01of01.mp4"
+      ]
     }
   }
 }
