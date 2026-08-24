@@ -29,6 +29,14 @@
         "VIDEO_001_35m43s_part02of02.mp4",
         "VIDEO_001_35m43s_part01of02.mp4"
       ]
+    },
+    "1": {
+      "url": "https://github.com/move-11-1/dri/releases/download/video-video_1oHJX5-_/video_1oHJX5-_.mp4",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
     }
   }
 }
