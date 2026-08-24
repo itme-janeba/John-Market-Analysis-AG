@@ -36,11 +36,12 @@
     "1": {
       "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/video-20260824_062026-07ed93d9/FINAL_V002_12m5s.mp4",
       "downloaded": true,
-      "effects_done": false,
+      "effects_done": true,
       "uploaded": false,
       "parts": [],
       "sheet_parts": [],
-      "local_raw": "/content/opt3_work/v0001/raw_0001.mp4"
+      "local_raw": "/content/opt3_work/v0001/raw_0001.mp4",
+      "local_final": "/content/opt3_work/v0001/final_0001.mp4"
     }
   }
 }
