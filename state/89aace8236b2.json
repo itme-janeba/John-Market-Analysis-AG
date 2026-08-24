@@ -82,6 +82,14 @@
       "sheet_parts": [
         "VIDEO_004_0m44s_part01of01.mp4"
       ]
+    },
+    "4": {
+      "url": "https://github.com/move-11-1/dri/releases/download/video-video_1Mcnn0TF/video_1Mcnn0TF.mp4",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
     }
   }
 }
