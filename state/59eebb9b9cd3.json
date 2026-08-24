@@ -190,7 +190,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1eZKAl8u/video_1eZKAl8u.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_011_1m34s_part01of01.mp4",
@@ -199,7 +199,9 @@
           "duration_sec": 94.12
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_011_1m34s_part01of01.mp4"
+      ]
     }
   }
 }
