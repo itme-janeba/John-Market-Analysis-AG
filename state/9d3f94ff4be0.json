@@ -132,6 +132,14 @@
       "sheet_parts": [
         "VIDEO_007_3m12s_part01of01.mp4"
       ]
+    },
+    "7": {
+      "url": "https://github.com/move-11-1/dri/releases/download/video-video_1_ddntYJ/video_1_ddntYJ.mp4",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
     }
   }
 }
