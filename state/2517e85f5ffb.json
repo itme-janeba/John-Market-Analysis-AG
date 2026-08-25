@@ -52,7 +52,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_11bpkX4R/video_11bpkX4R.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_003_25m19s_part01of02.mp4",
@@ -67,7 +67,10 @@
           "duration_sec": 261.373
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_003_25m19s_part02of02.mp4",
+        "VIDEO_003_25m19s_part01of02.mp4"
+      ]
     }
   }
 }
