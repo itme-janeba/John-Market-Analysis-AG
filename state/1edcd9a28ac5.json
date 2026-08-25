@@ -27,7 +27,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1mVxoT1W/video_1mVxoT1W.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_002_28m35s_part01of02.mp4",
@@ -42,7 +42,10 @@
           "duration_sec": 565.48
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_002_28m35s_part01of02.mp4",
+        "VIDEO_002_28m35s_part02of02.mp4"
+      ]
     }
   }
 }
