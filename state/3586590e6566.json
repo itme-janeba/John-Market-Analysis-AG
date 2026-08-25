@@ -68,7 +68,7 @@
     "3": {
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1Sc6ltdM/video_1Sc6ltdM.mp4",
       "downloaded": true,
-      "effects_done": false,
+      "effects_done": true,
       "uploaded": false,
       "parts": [],
       "sheet_parts": []
