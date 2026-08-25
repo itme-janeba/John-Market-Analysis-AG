@@ -37,5 +37,10 @@
     }
   },
   "chunks": {},
-  "status": "in_progress"
+  "status": "in_progress",
+  "chunk_plan": {
+    "total_duration": 316.3,
+    "n_chunks": 1,
+    "chunk_len": 316.3
+  }
 }
