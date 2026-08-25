@@ -23,6 +23,10 @@
     "bg_norm_0000": {
       "done": true,
       "size_mb": 153.6177921295166
+    },
+    "bg_norm_0001": {
+      "done": true,
+      "size_mb": 581.7063903808594
     }
   },
   "chunks": {},
