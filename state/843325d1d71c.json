@@ -18,7 +18,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1sOPnCBb/video_1sOPnCBb.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_001_2m5s_part01of01.mp4",
@@ -27,7 +27,9 @@
           "duration_sec": 125.08
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_001_2m5s_part01of01.mp4"
+      ]
     }
   }
 }
