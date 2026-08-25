@@ -32,5 +32,8 @@
     }
   },
   "chunks": {},
-  "status": "in_progress"
+  "status": "in_progress",
+  "chunk_plan": {
+    "n_chunks": 4
+  }
 }
