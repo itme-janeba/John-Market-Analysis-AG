@@ -18,7 +18,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1NFvDzYF/video_1NFvDzYF.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_001_3m10s_part01of01.mp4",
@@ -27,7 +27,9 @@
           "duration_sec": 190.9
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_001_3m10s_part01of01.mp4"
+      ]
     }
   }
 }
