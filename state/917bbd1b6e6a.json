@@ -23,6 +23,10 @@
     "bg_3": {
       "done": true,
       "size_mb": 124.24665069580078
+    },
+    "merged_bg": {
+      "done": true,
+      "size_mb": 138.30884170532227
     }
   },
   "chunks": {},
