@@ -166,6 +166,14 @@
       "sheet_parts": [
         "VIDEO_009_2m23s_part01of01.mp4"
       ]
+    },
+    "9": {
+      "url": "https://github.com/move-11-1/dri/releases/download/video-video_1-DH63Lu/video_1-DH63Lu.mp4",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
     }
   }
 }
