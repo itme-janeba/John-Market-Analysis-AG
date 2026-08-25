@@ -171,7 +171,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1Nu3bjWN/video_1Nu3bjWN.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_010_0m27s_part01of01.mp4",
@@ -180,7 +180,9 @@
           "duration_sec": 27.0
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_010_0m27s_part01of01.mp4"
+      ]
     }
   }
 }
