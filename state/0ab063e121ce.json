@@ -13,5 +13,14 @@
     "https://github.com/move-11-1/dri/releases/download/video-video_1V3qepZq/video_1V3qepZq.mp4",
     "https://github.com/move-11-1/dri/releases/download/video-video_1Dm1RgEj/video_1Dm1RgEj.mp4"
   ],
-  "videos": {}
+  "videos": {
+    "0": {
+      "url": "https://github.com/move-11-1/dri/releases/download/video-video_1NFvDzYF/video_1NFvDzYF.mp4",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
+    }
+  }
 }
