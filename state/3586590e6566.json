@@ -81,6 +81,14 @@
       "sheet_parts": [
         "VIDEO_004_2m54s_part01of01.mp4"
       ]
+    },
+    "4": {
+      "url": "https://github.com/move-11-1/dri/releases/download/video-video_1pCWdIWk/video_1pCWdIWk.mp4",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
     }
   }
 }
