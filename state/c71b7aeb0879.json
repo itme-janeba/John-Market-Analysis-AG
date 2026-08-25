@@ -47,6 +47,14 @@
         "VIDEO_002_25m1s_part01of02.mp4",
         "VIDEO_002_25m1s_part02of02.mp4"
       ]
+    },
+    "2": {
+      "url": "https://github.com/move-11-1/dri/releases/download/video-video_1pp8RCZh/video_1pp8RCZh.mp4",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
     }
   }
 }
