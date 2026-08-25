@@ -23,6 +23,11 @@
     "bg_0003": {
       "done": true,
       "size_mb": 128.6274003982544
+    },
+    "bg_concat": {
+      "done": true,
+      "size_mb": 798.9184894561768,
+      "duration_sec": 9030.537
     }
   },
   "chunks": {},
