@@ -30,6 +30,14 @@
         "VIDEO_001_33m23s_part02of02.mp4",
         "VIDEO_001_33m23s_part01of02.mp4"
       ]
+    },
+    "1": {
+      "url": "https://github.com/move-11-1/dri/releases/download/video-video_1XB1OThG/video_1XB1OThG.mp4",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
     }
   }
 }
