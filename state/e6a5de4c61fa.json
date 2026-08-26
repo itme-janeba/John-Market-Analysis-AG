@@ -99,7 +99,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1RJA6Snm-q8ktki/video_1RJA6Snm.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_006_2m14s_part01of01.mp4",
@@ -108,7 +108,9 @@
           "duration_sec": 134.768
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_006_2m14s_part01of01.mp4"
+      ]
     }
   }
 }
