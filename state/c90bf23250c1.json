@@ -28,7 +28,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1YDvebXP/video_1YDvebXP.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_002_17m55s_part01of01.mp4",
@@ -37,7 +37,9 @@
           "duration_sec": 1075.946
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_002_17m55s_part01of01.mp4"
+      ]
     }
   }
 }
