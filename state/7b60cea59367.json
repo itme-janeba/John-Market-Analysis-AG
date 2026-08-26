@@ -28,7 +28,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_17l2C04x/video_17l2C04x.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_002_34m53s_part01of02.mp4",
@@ -43,7 +43,10 @@
           "duration_sec": 918.814
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_002_34m53s_part01of02.mp4",
+        "VIDEO_002_34m53s_part02of02.mp4"
+      ]
     }
   }
 }
