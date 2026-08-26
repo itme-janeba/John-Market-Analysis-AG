@@ -11,7 +11,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1miBmrpd/video_1miBmrpd.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_001_33m23s_part01of02.mp4",
@@ -26,7 +26,10 @@
           "duration_sec": 786.561
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_001_33m23s_part02of02.mp4",
+        "VIDEO_001_33m23s_part01of02.mp4"
+      ]
     }
   }
 }
