@@ -47,6 +47,14 @@
         "VIDEO_002_32m35s_part01of02.mp4",
         "VIDEO_002_32m35s_part02of02.mp4"
       ]
+    },
+    "2": {
+      "url": "https://github.com/move-11-1/dri/releases/download/video-video_1Q-u66lv/video_1Q-u66lv.mp4",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
     }
   }
 }
