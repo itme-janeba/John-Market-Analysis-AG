@@ -35,7 +35,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1VUyP_eb/video_1VUyP_eb.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_002_16m57s_part01of02.mp4",
@@ -50,7 +50,10 @@
           "duration_sec": 321.364
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_002_16m57s_part01of02.mp4",
+        "VIDEO_002_16m57s_part02of02.mp4"
+      ]
     }
   }
 }
