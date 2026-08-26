@@ -35,7 +35,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1_5v1yW7/video_1_5v1yW7.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_002_17m34s_part01of01.mp4",
@@ -44,7 +44,9 @@
           "duration_sec": 1054.4
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_002_17m34s_part01of01.mp4"
+      ]
     }
   }
 }
