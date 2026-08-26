@@ -65,7 +65,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1IJO_4SW-mlmkj5/video_1IJO_4SW.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_004_1m44s_part01of01.mp4",
@@ -74,7 +74,9 @@
           "duration_sec": 104.0
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_004_1m44s_part01of01.mp4"
+      ]
     }
   }
 }
