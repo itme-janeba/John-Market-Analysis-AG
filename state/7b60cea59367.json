@@ -23,6 +23,14 @@
       "sheet_parts": [
         "VIDEO_001_14m3s_part01of01.mp4"
       ]
+    },
+    "1": {
+      "url": "https://github.com/move-11-1/dri/releases/download/video-video_17l2C04x/video_17l2C04x.mp4",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
     }
   }
 }
