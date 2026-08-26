@@ -31,7 +31,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1AwpUz5U-d877if/video_1AwpUz5U.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_002_3m33s_part01of01.mp4",
@@ -40,7 +40,9 @@
           "duration_sec": 213.534
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_002_3m33s_part01of01.mp4"
+      ]
     }
   }
 }
