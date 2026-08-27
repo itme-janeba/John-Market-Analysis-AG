@@ -171,7 +171,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_1sJBRLpR/video_1sJBRLpR.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_010_1m52s_part01of01.mp4",
@@ -180,7 +180,9 @@
           "duration_sec": 112.808
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_010_1m52s_part01of01.mp4"
+      ]
     }
   }
 }
