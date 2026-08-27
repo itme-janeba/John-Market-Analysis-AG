@@ -155,7 +155,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1pvUAb5c/video_1pvUAb5c.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_009_2m40s_part01of01.mp4",
@@ -164,7 +164,9 @@
           "duration_sec": 160.8
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_009_2m40s_part01of01.mp4"
+      ]
     }
   }
 }
