@@ -172,7 +172,7 @@
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1xFCvrm7/video_1xFCvrm7.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_010_1m38s_part01of01.mp4",
@@ -181,7 +181,9 @@
           "duration_sec": 98.8
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_010_1m38s_part01of01.mp4"
+      ]
     }
   }
 }
