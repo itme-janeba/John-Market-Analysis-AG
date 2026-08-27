@@ -69,7 +69,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_1XC7T8ML/video_1XC7T8ML.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_004_0m17s_part01of01.mp4",
@@ -78,7 +78,9 @@
           "duration_sec": 17.9
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_004_0m17s_part01of01.mp4"
+      ]
     }
   }
 }
