@@ -35,7 +35,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_1HEoryUC/video_1HEoryUC.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_002_0m31s_part01of01.mp4",
@@ -44,7 +44,9 @@
           "duration_sec": 31.32
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_002_0m31s_part01of01.mp4"
+      ]
     }
   }
 }
