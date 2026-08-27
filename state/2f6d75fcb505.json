@@ -103,7 +103,7 @@
     "5": {
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1mr5czzp/video_1mr5czzp.mp4",
       "downloaded": true,
-      "effects_done": false,
+      "effects_done": true,
       "uploaded": false,
       "parts": [],
       "sheet_parts": []
