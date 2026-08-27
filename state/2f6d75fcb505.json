@@ -52,7 +52,7 @@
     "2": {
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1K0WZhgw/video_1K0WZhgw.mp4",
       "downloaded": true,
-      "effects_done": false,
+      "effects_done": true,
       "uploaded": false,
       "parts": [],
       "sheet_parts": []
