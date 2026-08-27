@@ -18,7 +18,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_1KSP9XKm/video_1KSP9XKm.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_001_0m44s_part01of01.mp4",
@@ -27,7 +27,9 @@
           "duration_sec": 44.7
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_001_0m44s_part01of01.mp4"
+      ]
     }
   }
 }
