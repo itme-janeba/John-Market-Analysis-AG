@@ -85,7 +85,7 @@
     "4": {
       "url": "https://github.com/move-11-1/dri/releases/download/video-video_1zU2tmci/video_1zU2tmci.mp4",
       "downloaded": true,
-      "effects_done": false,
+      "effects_done": true,
       "uploaded": false,
       "parts": [],
       "sheet_parts": []
