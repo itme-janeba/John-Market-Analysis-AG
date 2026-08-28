@@ -105,7 +105,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_1uST0cbX/video_1uST0cbX.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_006_2m58s_part01of01.mp4",
@@ -114,7 +114,9 @@
           "duration_sec": 178.612
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_006_2m58s_part01of01.mp4"
+      ]
     }
   }
 }
