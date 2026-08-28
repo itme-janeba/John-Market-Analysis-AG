@@ -28,7 +28,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_1wdtV_KH/video_1wdtV_KH.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_002_6m53s_part01of01.mp4",
@@ -37,7 +37,9 @@
           "duration_sec": 413.64
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_002_6m53s_part01of01.mp4"
+      ]
     }
   }
 }
