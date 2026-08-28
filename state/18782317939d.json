@@ -47,6 +47,14 @@
         "VIDEO_002_26m49s_part02of02.mp4",
         "VIDEO_002_26m49s_part01of02.mp4"
       ]
+    },
+    "2": {
+      "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_10VCLD9m/video_10VCLD9m.mp4",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
     }
   }
 }
