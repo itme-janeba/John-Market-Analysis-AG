@@ -87,7 +87,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_1gV_bs-_/video_1gV_bs-_.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_005_0m53s_part01of01.mp4",
@@ -96,7 +96,9 @@
           "duration_sec": 53.64
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_005_0m53s_part01of01.mp4"
+      ]
     }
   }
 }
