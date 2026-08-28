@@ -30,6 +30,14 @@
         "VIDEO_001_25m1s_part01of02.mp4",
         "VIDEO_001_25m1s_part02of02.mp4"
       ]
+    },
+    "1": {
+      "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_1v44Rw7g/video_1v44Rw7g.mp4",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
     }
   }
 }
