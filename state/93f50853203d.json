@@ -11,7 +11,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_15_NcWPG/video_15_NcWPG.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_001_15m38s_part01of01.mp4",
@@ -20,7 +20,9 @@
           "duration_sec": 938.16
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_001_15m38s_part01of01.mp4"
+      ]
     }
   }
 }
