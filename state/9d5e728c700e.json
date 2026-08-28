@@ -11,7 +11,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_1DDDmq2T/video_1DDDmq2T.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_001_23m14s_part01of02.mp4",
@@ -26,7 +26,10 @@
           "duration_sec": 144.534
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_001_23m14s_part01of02.mp4",
+        "VIDEO_001_23m14s_part02of02.mp4"
+      ]
     }
   }
 }
