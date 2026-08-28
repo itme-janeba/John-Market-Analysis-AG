@@ -27,7 +27,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_1jMCLEL3/video_1jMCLEL3.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_002_8m23s_part01of01.mp4",
@@ -36,7 +36,9 @@
           "duration_sec": 503.634
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_002_8m23s_part01of01.mp4"
+      ]
     }
   }
 }
