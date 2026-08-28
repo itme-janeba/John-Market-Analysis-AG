@@ -138,7 +138,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_17qwzlM_/video_17qwzlM_.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_008_2m48s_part01of01.mp4",
@@ -147,7 +147,9 @@
           "duration_sec": 168.88
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_008_2m48s_part01of01.mp4"
+      ]
     }
   }
 }
