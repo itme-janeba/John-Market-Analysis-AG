@@ -11,7 +11,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_1tvD9-YL/video_1tvD9-YL.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_001_5m35s_part01of01.mp4",
@@ -20,7 +20,9 @@
           "duration_sec": 335.04
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_001_5m35s_part01of01.mp4"
+      ]
     }
   }
 }
