@@ -36,7 +36,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_1JtyMAPD/video_1JtyMAPD.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_002_2m5s_part01of01.mp4",
@@ -45,7 +45,9 @@
           "duration_sec": 125.08
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_002_2m5s_part01of01.mp4"
+      ]
     }
   }
 }
