@@ -35,7 +35,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_19QYg3Vm/video_19QYg3Vm.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_002_2m58s_part01of01.mp4",
@@ -44,7 +44,9 @@
           "duration_sec": 178.634
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_002_2m58s_part01of01.mp4"
+      ]
     }
   }
 }
