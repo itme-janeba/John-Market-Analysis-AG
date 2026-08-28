@@ -45,7 +45,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_19flDPLU/video_19flDPLU.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_003_25m1s_part01of02.mp4",
@@ -60,7 +60,10 @@
           "duration_sec": 251.858
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_003_25m1s_part01of02.mp4",
+        "VIDEO_003_25m1s_part02of02.mp4"
+      ]
     }
   }
 }
