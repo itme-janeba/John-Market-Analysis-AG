@@ -13,5 +13,14 @@
     "https://github.com/move-11-1/J-DRI/releases/download/video-video_1O0KKiAd/video_1O0KKiAd.mp4",
     "https://github.com/move-11-1/J-DRI/releases/download/video-video_1RGWDKF_/video_1RGWDKF_.mp4"
   ],
-  "videos": {}
+  "videos": {
+    "0": {
+      "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_1KfC0orQ/video_1KfC0orQ.mp4",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
+    }
+  }
 }
