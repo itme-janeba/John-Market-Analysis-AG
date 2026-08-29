@@ -738,5 +738,15 @@
     "duration_sec": 100.124333,
     "resolution": "1280x720",
     "updated": "2026-08-29T12:17:05.489215+00:00"
+  },
+  "940178f57987f645": {
+    "url": "https://github.com/move-11-1/dri/releases/download/video-video_1JCWFcbo/video_1JCWFcbo.mp4",
+    "done": true,
+    "asset_id": 535182170,
+    "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/prekeyed-store/940178f57987f645.mkv",
+    "size_mb": 327.4482593536377,
+    "duration_sec": 100.031333,
+    "resolution": "1280x720",
+    "updated": "2026-08-29T12:17:07.232563+00:00"
   }
 }
