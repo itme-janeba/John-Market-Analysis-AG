@@ -1,7 +1,14 @@
 {
   "job_id": "75534faabdac",
   "created": "2026-08-29T07:53:42.795893+00:00",
-  "steps": {},
+  "steps": {
+    "overlay": {
+      "done": true,
+      "size_mb": 94.12667083740234,
+      "asset_id": 534937530,
+      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-75534faabdac/overlay.mp4"
+    }
+  },
   "chunks": {},
   "status": "in_progress"
 }
