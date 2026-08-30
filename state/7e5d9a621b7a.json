@@ -121,7 +121,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_1Cp-8DdZ/video_1Cp-8DdZ.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_007_0m49s_part01of01.mp4",
@@ -130,7 +130,9 @@
           "duration_sec": 49.183
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_007_0m49s_part01of01.mp4"
+      ]
     }
   }
 }
