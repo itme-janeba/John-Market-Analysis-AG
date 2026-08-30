@@ -187,7 +187,7 @@
       "audio_url": "https://drive.google.com/uc?export=download&id=1LGSGC6RO7RVtpXsJowF1sbCTwfbPRCes",
       "v_downloaded": true,
       "a_downloaded": true,
-      "spd_done": false,
+      "spd_done": true,
       "adj_done": false,
       "merged_done": false,
       "humanized": false,
