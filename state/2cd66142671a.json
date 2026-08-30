@@ -5,5 +5,14 @@
   "links": [
     "https://drive.google.com/file/d/1nuGE8EMkXX5kk0sg6okzZj-AC8x5x4GQ/view?usp=drive_link"
   ],
-  "videos": {}
+  "videos": {
+    "0": {
+      "url": "https://drive.google.com/file/d/1nuGE8EMkXX5kk0sg6okzZj-AC8x5x4GQ/view?usp=drive_link",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
+    }
+  }
 }
