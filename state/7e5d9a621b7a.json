@@ -189,7 +189,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_16FNZzzn/video_16FNZzzn.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_011_0m49s_part01of01.mp4",
@@ -198,7 +198,9 @@
           "duration_sec": 49.304
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_011_0m49s_part01of01.mp4"
+      ]
     }
   }
 }
