@@ -86,7 +86,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_1AlJfDSg/video_1AlJfDSg.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_005_1m54s_part01of01.mp4",
@@ -95,7 +95,9 @@
           "duration_sec": 114.36
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_005_1m54s_part01of01.mp4"
+      ]
     }
   }
 }
