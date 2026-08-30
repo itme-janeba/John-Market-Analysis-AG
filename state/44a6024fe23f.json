@@ -52,7 +52,7 @@
       "url": "https://github.com/move-11-1/J-DRI/releases/download/video-video_1NmZh7ut/video_1NmZh7ut.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_003_2m36s_part01of01.mp4",
@@ -61,7 +61,9 @@
           "duration_sec": 156.32
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_003_2m36s_part01of01.mp4"
+      ]
     }
   }
 }
