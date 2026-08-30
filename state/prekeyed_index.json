@@ -978,5 +978,15 @@
     "duration_sec": 100.031333,
     "resolution": "1280x720",
     "updated": "2026-08-30T08:12:32.121137+00:00"
+  },
+  "6a004ffd1077450d": {
+    "url": "https://drive.google.com/uc?export=download&id=1ON6T9ysBiamwnL_ds92JLYbEIzkunRiP",
+    "done": true,
+    "asset_id": 536335230,
+    "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/prekeyed-store/6a004ffd1077450d.mkv",
+    "size_mb": 322.91448974609375,
+    "duration_sec": 100.194,
+    "resolution": "1280x720",
+    "updated": "2026-08-30T08:12:33.706911+00:00"
   }
 }
