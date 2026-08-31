@@ -138,7 +138,7 @@
       "url": "https://drive.google.com/uc?export=download&id=1MKvQO3IpsSZXuOs4xtpE3JaB7jkxAQaW",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_008_0m26s_part01of01.mp4",
@@ -147,7 +147,9 @@
           "duration_sec": 26.84
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_008_0m26s_part01of01.mp4"
+      ]
     }
   }
 }
