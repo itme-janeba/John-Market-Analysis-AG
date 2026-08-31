@@ -186,7 +186,7 @@
       "video_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/v3-2cac1c3e18e9-v0009/VIDEO_010_0m27s_part01of01.mp4",
       "audio_url": "https://drive.google.com/file/d/1JcUkBAnDCJol5c4KKtXgR7HxsKJ9Y626/view?usp=drive_link",
       "v_downloaded": true,
-      "a_downloaded": false,
+      "a_downloaded": true,
       "spd_done": false,
       "adj_done": false,
       "merged_done": false,
