@@ -107,6 +107,11 @@
       "size_mb": 23.399239540100098,
       "asset_id": 537947978,
       "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-5b1966c3835f/bg_norm_0008.mp4"
+    },
+    "bg_concat": {
+      "done": true,
+      "size_mb": 242.8074436187744,
+      "duration_sec": 568.925
     }
   },
   "chunks": {},
