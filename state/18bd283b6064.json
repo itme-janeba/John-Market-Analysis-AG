@@ -39,6 +39,10 @@
       "asset_id": 530068546,
       "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/prekeyed-store/7385187f1ee98d41.mkv",
       "source": "prekeyed_cache"
+    },
+    "keyed_full": {
+      "done": true,
+      "size_mb": 12685.205220222473
     }
   },
   "chunks": {},
