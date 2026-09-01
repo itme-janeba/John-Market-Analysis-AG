@@ -167,7 +167,7 @@
       "audio_url": "https://drive.google.com/file/d/10dq29Ia2rcNP9zr8mKf5YF08q-m6Y_Zq/view?usp=drive_link",
       "v_downloaded": true,
       "a_downloaded": true,
-      "spd_done": false,
+      "spd_done": true,
       "adj_done": false,
       "merged_done": false,
       "humanized": false,
