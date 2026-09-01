@@ -172,7 +172,14 @@
       "merged_done": true,
       "humanized": true,
       "uploaded": false,
-      "parts": [],
+      "parts": [
+        {
+          "name": "AV_007_2m2s_part01of01.mp4",
+          "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/v2-e439584b2775-p0006/AV_007_2m2s_part01of01.mp4",
+          "size_mb": 56.17189407348633,
+          "duration_sec": 122.76
+        }
+      ],
       "sheet_parts": []
     }
   }
