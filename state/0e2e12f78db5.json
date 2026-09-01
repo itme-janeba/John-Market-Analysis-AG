@@ -76,7 +76,7 @@
       "v_downloaded": true,
       "a_downloaded": true,
       "spd_done": true,
-      "adj_done": false,
+      "adj_done": true,
       "merged_done": false,
       "humanized": false,
       "uploaded": false,
