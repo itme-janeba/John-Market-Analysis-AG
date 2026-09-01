@@ -7,5 +7,14 @@
     "https://drive.google.com/uc?export=download&id=1Tsy1rN_xJzkMNVx9H_xMng7JAyNsRuoi",
     "https://drive.google.com/uc?export=download&id=1WbspusH26PaUoQS3ROCcyJNStyJJ7UnC"
   ],
-  "videos": {}
+  "videos": {
+    "0": {
+      "url": "https://drive.google.com/uc?export=download&id=1nzZCMsKarfaWIqKsqIF5XIDV3bgmhRYD",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
+    }
+  }
 }
