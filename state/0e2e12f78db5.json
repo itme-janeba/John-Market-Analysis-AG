@@ -78,7 +78,7 @@
       "spd_done": true,
       "adj_done": true,
       "merged_done": true,
-      "humanized": false,
+      "humanized": true,
       "uploaded": false,
       "parts": [],
       "sheet_parts": []
