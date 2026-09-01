@@ -184,7 +184,7 @@
       "adj_done": true,
       "merged_done": true,
       "humanized": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "AV_009_1m9s_part01of01.mp4",
@@ -193,7 +193,9 @@
           "duration_sec": 69.64
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "AV_009_1m9s_part01of01.mp4"
+      ]
     }
   }
 }
