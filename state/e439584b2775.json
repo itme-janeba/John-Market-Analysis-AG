@@ -183,6 +183,19 @@
       "sheet_parts": [
         "AV_007_2m2s_part01of01.mp4"
       ]
+    },
+    "7": {
+      "video_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/v3-7e5d9a621b7a-v0003/VIDEO_004_6m56s_part01of01.mp4",
+      "audio_url": "https://drive.google.com/file/d/1me1e7B3YwIjpN29FNXbfgAGt7WyL1F0W/view?usp=drive_link",
+      "v_downloaded": true,
+      "a_downloaded": false,
+      "spd_done": false,
+      "adj_done": false,
+      "merged_done": false,
+      "humanized": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
     }
   }
 }
