@@ -180,7 +180,7 @@
       "audio_url": "https://drive.google.com/file/d/1w0W0n4Ndl_lrHytN22lk5aaF-e1E1J4r/view?usp=drive_link",
       "v_downloaded": true,
       "a_downloaded": true,
-      "spd_done": false,
+      "spd_done": true,
       "adj_done": false,
       "merged_done": false,
       "humanized": false,
