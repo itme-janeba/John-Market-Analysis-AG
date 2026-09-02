@@ -12,5 +12,14 @@
     "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/v1-9277462c2852-v0006/VIDEO_007_2m39s_part01of01.mp4",
     "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/v1-9277462c2852-v0007/VIDEO_008_6m44s_part01of01.mp4"
   ],
-  "videos": {}
+  "videos": {
+    "0": {
+      "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/v1-9277462c2852-v0000/VIDEO_001_1m38s_part01of01.mp4",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
+    }
+  }
 }
