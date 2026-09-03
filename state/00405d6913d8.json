@@ -45,7 +45,15 @@
       "size_mb": 2789.366481781006
     }
   },
-  "chunks": {},
+  "chunks": {
+    "1": {
+      "done": true,
+      "start": 298.90000000000003,
+      "dur": 298.90000000000003,
+      "asset_id": 542265670,
+      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-00405d6913d8/chunk_0001.mp4"
+    }
+  },
   "status": "in_progress",
   "chunk_plan": {
     "total_duration": 896.7,
