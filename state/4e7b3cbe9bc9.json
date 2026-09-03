@@ -157,7 +157,7 @@
       "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/composite-20260903-055350-2f133e/COMPOSITE_1280x720_15m53s_part01of01.mp4",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_009_14m11s_part01of01.mp4",
@@ -166,7 +166,9 @@
           "duration_sec": 851.716
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_009_14m11s_part01of01.mp4"
+      ]
     }
   }
 }
