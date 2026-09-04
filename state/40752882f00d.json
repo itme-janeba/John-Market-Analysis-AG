@@ -47,7 +47,7 @@
       "url": "https://drive.google.com/uc?export=download&id=1zBLAw7oaX6wtkq3ieJr_bpiP-6VuW6K8",
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_003_15m10s_part01of01.mp4",
@@ -56,7 +56,9 @@
           "duration_sec": 910.773
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_003_15m10s_part01of01.mp4"
+      ]
     }
   }
 }
