@@ -32,6 +32,13 @@
       "done": true,
       "size_mb": 1512.2196197509766,
       "duration_sec": 3210.794
+    },
+    "keyed_clip": {
+      "done": true,
+      "size_mb": 340.5798225402832,
+      "asset_id": 530125719,
+      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/prekeyed-store/59c49f739e4e2444.mkv",
+      "source": "prekeyed_cache"
     }
   },
   "chunks": {},
