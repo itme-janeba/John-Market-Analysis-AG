@@ -1,7 +1,14 @@
 {
   "job_id": "badd8229047f",
   "created": "2026-09-05T10:37:06.584599+00:00",
-  "steps": {},
+  "steps": {
+    "overlay": {
+      "done": true,
+      "size_mb": 94.4111967086792,
+      "asset_id": 545701263,
+      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-badd8229047f/overlay.mp4"
+    }
+  },
   "chunks": {},
   "status": "in_progress"
 }
