@@ -39,7 +39,7 @@
       "speed": 1.14,
       "downloaded": true,
       "effects_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "VIDEO_002_21m50s_part01of01.mp4",
@@ -48,7 +48,9 @@
           "duration_sec": 1310.0
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "VIDEO_002_21m50s_part01of01.mp4"
+      ]
     }
   }
 }
