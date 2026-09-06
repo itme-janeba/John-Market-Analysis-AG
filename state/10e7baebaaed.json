@@ -69,6 +69,15 @@
       "sheet_parts": [
         "VIDEO_003_21m27s_part01of01.mp4"
       ]
+    },
+    "3": {
+      "url": "https://github.com/move-11-1/dri/releases/download/video-video_1J905HHs/video_1J905HHs.mp4",
+      "speed": 1.18,
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
     }
   }
 }
