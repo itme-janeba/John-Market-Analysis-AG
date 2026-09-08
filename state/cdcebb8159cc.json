@@ -155,7 +155,14 @@
       "downloaded": true,
       "effects_done": true,
       "uploaded": false,
-      "parts": [],
+      "parts": [
+        {
+          "name": "VIDEO_009_0m29s_part01of01.mp4",
+          "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/v1-cdcebb8159cc-v0008/VIDEO_009_0m29s_part01of01.mp4",
+          "size_mb": 38.04380798339844,
+          "duration_sec": 29.36
+        }
+      ],
       "sheet_parts": []
     }
   }
