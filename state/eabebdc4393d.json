@@ -20,6 +20,12 @@
           "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/v1-eabebdc4393d-v0000/VIDEO_001_25m0s_part01of02.mp4",
           "size_mb": 1727.4209909439087,
           "duration_sec": 1258.434
+        },
+        {
+          "name": "VIDEO_001_25m0s_part02of02.mp4",
+          "url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/v1-eabebdc4393d-v0000/VIDEO_001_25m0s_part02of02.mp4",
+          "size_mb": 322.55116081237793,
+          "duration_sec": 241.734
         }
       ],
       "sheet_parts": []
