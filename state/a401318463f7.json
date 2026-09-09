@@ -187,7 +187,7 @@
       "audio_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/audio-20260909-074932/AUDIO_008_8.mp3",
       "v_downloaded": true,
       "a_downloaded": true,
-      "spd_done": false,
+      "spd_done": true,
       "adj_done": false,
       "merged_done": false,
       "humanized": false,
