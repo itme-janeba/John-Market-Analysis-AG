@@ -45,68 +45,11 @@
       "size_mb": 9301.099615097046
     }
   },
-  "chunks": {
-    "0": {
-      "done": true,
-      "start": 0.0,
-      "dur": 308.5,
-      "asset_id": 554460450,
-      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-c16a410338c0/chunk_0000.mp4"
-    },
-    "1": {
-      "done": true,
-      "start": 308.5,
-      "dur": 308.5,
-      "asset_id": 554460696,
-      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-c16a410338c0/chunk_0001.mp4"
-    },
-    "2": {
-      "done": true,
-      "start": 617.0,
-      "dur": 308.5,
-      "asset_id": 554467555,
-      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-c16a410338c0/chunk_0002.mp4"
-    },
-    "3": {
-      "done": true,
-      "start": 925.5,
-      "dur": 308.5,
-      "asset_id": 554467928,
-      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-c16a410338c0/chunk_0003.mp4"
-    },
-    "5": {
-      "done": true,
-      "start": 1542.5,
-      "dur": 308.5,
-      "asset_id": 554735919,
-      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-c16a410338c0/chunk_0005.mp4"
-    },
-    "4": {
-      "done": true,
-      "start": 1234.0,
-      "dur": 308.5,
-      "asset_id": 554736070,
-      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-c16a410338c0/chunk_0004.mp4"
-    },
-    "6": {
-      "done": true,
-      "start": 1851.0,
-      "dur": 308.5,
-      "asset_id": 554742731,
-      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-c16a410338c0/chunk_0006.mp4"
-    },
-    "7": {
-      "done": true,
-      "start": 2159.5,
-      "dur": 308.5,
-      "asset_id": 554743002,
-      "asset_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/ckpt-c16a410338c0/chunk_0007.mp4"
-    }
-  },
+  "chunks": {},
   "status": "in_progress",
   "chunk_plan": {
-    "total_duration": 3085.0,
-    "n_chunks": 10,
-    "chunk_len": 308.5
+    "total_duration": 3326.8,
+    "n_chunks": 11,
+    "chunk_len": 302.43636363636364
   }
 }
