@@ -137,7 +137,7 @@
       "spd_done": true,
       "adj_done": true,
       "merged_done": true,
-      "uploaded": false,
+      "uploaded": true,
       "parts": [
         {
           "name": "AV_006_3m28s_part01of01.mp4",
@@ -146,7 +146,9 @@
           "duration_sec": 208.723991
         }
       ],
-      "sheet_parts": []
+      "sheet_parts": [
+        "AV_006_3m28s_part01of01.mp4"
+      ]
     }
   }
 }
