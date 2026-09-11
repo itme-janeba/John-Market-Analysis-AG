@@ -14,5 +14,14 @@
     "https://drive.google.com/uc?export=download&id=1IDHHqny-SAQ_AI9Gxs8XlYkoUiz0C1Ym",
     "https://drive.google.com/uc?export=download&id=1O8RpdC1vD0GSdUwg7bMFu83-7s5AUtYs"
   ],
-  "videos": {}
+  "videos": {
+    "0": {
+      "url": "https://drive.google.com/uc?export=download&id=1pz-_n-mW53BbGd-Pna8LjvvImK7K3lC-",
+      "downloaded": true,
+      "effects_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
+    }
+  }
 }
