@@ -178,7 +178,7 @@
       "a_downloaded": true,
       "spd_done": true,
       "adj_done": true,
-      "merged_done": false,
+      "merged_done": true,
       "uploaded": false,
       "parts": [],
       "sheet_parts": []
