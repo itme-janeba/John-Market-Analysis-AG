@@ -49,7 +49,7 @@
       "video_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/news-20260911_104737-f89e2a/news_m4_20260911_104737.mp4",
       "audio_url": "https://drive.google.com/uc?export=download&id=1kb23vO5wCaTIWc0Uofwat49AM0PypTPM",
       "v_downloaded": true,
-      "a_downloaded": false,
+      "a_downloaded": true,
       "spd_done": false,
       "adj_done": false,
       "merged_done": false,
