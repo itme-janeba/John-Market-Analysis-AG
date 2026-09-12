@@ -33,7 +33,7 @@
       "audio_url": "https://drive.google.com/file/d/1kMhXa6Nnizy8HQSWCTVB-lh1pJHijiSD/view?usp=drive_link",
       "v_downloaded": true,
       "a_downloaded": true,
-      "spd_done": false,
+      "spd_done": true,
       "adj_done": false,
       "merged_done": false,
       "uploaded": false,
