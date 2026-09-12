@@ -51,6 +51,18 @@
       "uploaded": false,
       "parts": [],
       "sheet_parts": []
+    },
+    "2": {
+      "video_url": "https://github.com/itme-janeba/John-Market-Analysis-AG/releases/download/v1-6d693cc1f8d7-v0007/VIDEO_008_0m26s_part01of01.mp4",
+      "audio_url": "https://drive.google.com/file/d/1cozND4uBOmJNlXbFQUxUE44_hD7TRg6v/view?usp=drive_link",
+      "v_downloaded": true,
+      "a_downloaded": false,
+      "spd_done": false,
+      "adj_done": false,
+      "merged_done": false,
+      "uploaded": false,
+      "parts": [],
+      "sheet_parts": []
     }
   }
 }
